@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Abhay-55/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Abhay-55/leetcode-grind/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay-55/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0228-summary-ranges](https://github.com/Abhay-55/leetcode-grind/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Abhay-55/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay-55/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
