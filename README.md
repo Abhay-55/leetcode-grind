@@ -13,6 +13,7 @@
 | [0228-summary-ranges](https://github.com/Abhay-55/leetcode-grind/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Abhay-55/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay-55/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Abhay-55/leetcode-grind/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhay-55/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhay-55/leetcode-grind/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Abhay-55/leetcode-grind/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
